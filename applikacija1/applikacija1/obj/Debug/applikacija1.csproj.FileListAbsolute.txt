@@ -1,0 +1,8 @@
+C:\Users\Luka\source\repos\applikacija1\applikacija1\bin\Debug\applikacija1.exe.config
+C:\Users\Luka\source\repos\applikacija1\applikacija1\bin\Debug\applikacija1.exe
+C:\Users\Luka\source\repos\applikacija1\applikacija1\bin\Debug\applikacija1.pdb
+C:\Users\Luka\source\repos\applikacija1\applikacija1\obj\Debug\applikacija1.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\applikacija1\applikacija1\obj\Debug\applikacija1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luka\source\repos\applikacija1\applikacija1\obj\Debug\applikacija1.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\applikacija1\applikacija1\obj\Debug\applikacija1.exe
+C:\Users\Luka\source\repos\applikacija1\applikacija1\obj\Debug\applikacija1.pdb
